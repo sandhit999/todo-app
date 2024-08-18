@@ -1,4 +1,4 @@
-# todo-app-
+# todo-app
 simple todo application using  javascript 
 <br>
 week 3.1 
